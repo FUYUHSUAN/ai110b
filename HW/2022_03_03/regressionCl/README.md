@@ -2,6 +2,8 @@
 * 運用regression結合爬山演算法的方式來自動化來搜尋，而不是指定值的方式搜尋
 * 本作業是參考`鍾誠`老師的[regression.py](https://gitlab.com/ccc110/ai/-/blob/master/_homework/01-regression/regression.py)來改寫的
 
+* 目的，運用4個方向的搜尋，來使用
+
 ```
 # 請修改這個函數，自動找出讓 loss 最小的 p
 #p = [2,1] # 這個值目前是手動填的，請改為自動尋找。(即使改了 x,y 仍然能找到最適合的回歸線)
