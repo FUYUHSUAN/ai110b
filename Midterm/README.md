@@ -207,6 +207,6 @@ https://github.com/junxiaosong/AlphaZero_Gomoku
 ![](PICTURES/4.jpg)
 
 ## 結果
-- 我使用pdf
+- 我使用gif
+
 ![](pictures/Webp.net-gifmaker%20(1).gif)
-todo
