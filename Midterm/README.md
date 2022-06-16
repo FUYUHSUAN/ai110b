@@ -6,7 +6,7 @@
 >* 嘗試改編鍾誠老師讓我們參考的程式架構
 
 
-https://github.com/junxiaosong/AlphaZero_Gomoku
+- https://github.com/junxiaosong/AlphaZero_Gomoku
 ---
 
 ## 先試試`python human_play.py`及`python train.py`
@@ -44,7 +44,7 @@ https://github.com/junxiaosong/AlphaZero_Gomoku
 
     根據葉節點值，回溯到根節點，更新回溯路徑上每個節點的價值以及訪問次數。這樣，MCTS樹的節點價值就被不斷修正，下次再進行Select的時候，就可以找到更高價值的落子，AI的棋力就提高了。
 
-- 參考網址 : https://zhuanlan.zhihu.com/p/437270327
+- 參考網址及圖片來自 : https://zhuanlan.zhihu.com/p/437270327
 
 
 ## 深度學習網路架構
@@ -139,11 +139,11 @@ https://github.com/junxiaosong/AlphaZero_Gomoku
         ```
     
     
-- select，expand來自:https://zhuanlan.zhihu.com/p/115867362
+- select，expand圖片來自:https://zhuanlan.zhihu.com/p/115867362
 
 
 ## 網路架構圖
-- 我透過[PyTorch下的可視化工具](https://zhuanlan.zhihu.com/p/220403674)，其分析位置的程式碼在[此](./touchviz/touchviz.py)
+- 我透過[PyTorch下的可視化工具](https://zhuanlan.zhihu.com/p/220403674)，運用程式碼製作之圖，[繪圖之程式碼](./touchviz/touchviz.py)
 
 - 如圖為五子棋AlphaZero的網路架構圖
 ![](pictures/Digraph.gv.png)
