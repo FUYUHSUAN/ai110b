@@ -71,6 +71,8 @@
 - [筆記連結](./2022_06_09/note.md)
 
 ### 2022_06_16
+
+- [筆記連結](./2022_06_16/note.md)
 - https://d2l.ai/index.html
 - https://zh.d2l.ai/index.html
 

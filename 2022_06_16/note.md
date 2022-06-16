@@ -143,7 +143,7 @@ LSTM模型
 - 編碼器解碼器架構
 >- 輸入(they are watching) -> 編碼器 -> 狀態 -> 解碼器 -> 輸出
 
-1. 編碼氣解碼器合併
+1. 編碼氣SS解碼器合併
 2. 將兩個做成基本元件
 3. 將其作為狀態初始化
 4. 並與另外一組輸入，跟剛剛的狀態一起出入，一起做最後處理
@@ -164,6 +164,9 @@ LSTM模型
     ```
 
 ![](pictures/1.jpg)
+
+
+- 圖片參考至此網址 :  https://d2l.ai/chapter_introduction/index.htmlS
 ### seq to seq
 源(One Hot Encoding) -> 循環神經網路 -> 盡量讓結果正確
 
